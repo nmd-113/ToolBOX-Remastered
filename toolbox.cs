@@ -269,11 +269,11 @@ namespace ToolBOX_Remastered
                 if (cb_libre.Checked) tasks.Add(() => DownloadAndInstallAsync("Libre Office", "https://www.naetech.ro/wp-content/uploads/2024/toolbox/LibreOffice_Win_x86-64.msi", "/quiet /norestart", results));
                 if (cb_gear.Checked) tasks.Add(() => DownloadAndInstallAsync("PDF Gear", "https://www.naetech.ro/wp-content/uploads/2024/toolbox/pdfgear_setup.exe", "/VERYSILENT /NORESTART", results));
                 if (cb_acrobat.Checked) tasks.Add(() => DownloadAndInstallAsync("Adobe Acrobat Reader", "https://www.naetech.ro/wp-content/uploads/2024/toolbox/AcroRdrDC_en_US.exe", "/sAll /rs /msi EULA_ACCEPT=YES", results));
-                if (cb_office.Checked) tasks.Add(() => DownloadAndInstallAsync("MS Office 2021 (*Lite)", "https://www.naetech.ro/wp-content/uploads/2024/toolbox/office2021.zip", "", results, true));
+                if (cb_office.Checked) tasks.Add(() => DownloadAndInstallAsync("MS Office 2021 Lite", "https://www.naetech.ro/wp-content/uploads/2024/toolbox/office2021.zip", "", results, true));
 
                 if (cb_dx.Checked) tasks.Add(() => DownloadAndInstallAsync("DirectX", "https://www.naetech.ro/wp-content/uploads/2024/toolbox/directx_Jun2010_redist.zip", "", results, true));
                 if (cb_netrun.Checked) tasks.Add(() => DownloadAndInstallAsync(".Net Runtime 8.0.10", "https://www.naetech.ro/wp-content/uploads/2024/toolbox/windowsdesktop-runtime-8.0.10-win-x64.exe", "/install /quiet /norestart", results));
-                if (cb_vcplus.Checked) tasks.Add(() => DownloadAndInstallAsync("Visual C++ (*All)", "https://www.naetech.ro/wp-content/uploads/2024/toolbox/Visual-C-Runtimes-All-in-One.zip", "", results, true));
+                if (cb_vcplus.Checked) tasks.Add(() => DownloadAndInstallAsync("Visual C++ All", "https://www.naetech.ro/wp-content/uploads/2024/toolbox/Visual-C-Runtimes-All-in-One.zip", "", results, true));
                 if (cb_netframe.Checked) tasks.Add(() => DownloadAndInstallAsync(".Net Framework 4.8.1", "https://www.naetech.ro/wp-content/uploads/2024/toolbox/NDP481-x86-x64-AllOS-ENU.exe", "/quiet /AcceptEULA /norestart", results));
 
 

@@ -13,7 +13,7 @@ Categories include:
 - Productivity: LibreOffice, PDF Gear, MS Office 2021 Slim (Word, Excel, PowerPoint), Adobe Acrobat Reader.
 - System Apps: DirectX, Visual C++, .NET Framework, and others.
 
-3. Windows Tweaker
+2. Windows Tweaker
 Apply system tweaks for better performance.
 Features include:
 - Classic Context Menu for Windows 11

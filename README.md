@@ -22,19 +22,19 @@ Features include:
 - Add "Ultimate Performance" power plan
 And more.
 
-4. Why Use ToolBox Remastered?
+Why Use ToolBox Remastered?
 - Simple & Intuitive: An easy-to-use interface, no technical knowledge required.
 - Fast & Efficient: Install apps and apply tweaks in no time.
 - Optimized for Windows 10 & 11: Designed to improve your PC’s performance.
 
-5. How to Use
+How to Use
 - Download the application from the Releases page.
 - Open ToolBox Remastered.
 - Select the apps or tweaks you want.
 - Click "Install" or "Apply" and let the app do the work!
 
-6. Contributing
+Contributing
 Feel free to open issues or submit pull requests if you’d like to help improve the app. Suggestions are welcome!
 
-7. License
+License
 This project is licensed under the MIT License - see the LICENSE file for details.
